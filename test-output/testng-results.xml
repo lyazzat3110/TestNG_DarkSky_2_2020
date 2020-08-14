@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28188" started-at="2020-08-09T12:13:35 EDT" finished-at="2020-08-09T12:14:04 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28188" started-at="2020-08-09T12:13:35 EDT" finished-at="2020-08-09T12:14:04 EDT">
+      <class name="com.qa.darksky.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="setUp" is-config="true" duration-ms="3765" started-at="2020-08-09T12:13:35 EDT" finished-at="2020-08-09T12:13:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="verifyPageTitleTest" duration-ms="17" started-at="2020-08-09T12:13:39 EDT" finished-at="2020-08-09T12:13:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="Get_Information()[pri:2, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="Get_Information" duration-ms="24268" started-at="2020-08-09T12:13:39 EDT" finished-at="2020-08-09T12:14:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Information -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.darksky.test.HomePageTest@3fd7a715]" name="tearDown" is-config="true" duration-ms="110" started-at="2020-08-09T12:14:04 EDT" finished-at="2020-08-09T12:14:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.darksky.test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
